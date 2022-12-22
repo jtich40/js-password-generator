@@ -8,6 +8,6 @@ This website was designed to deploy a random password generator that would allow
 
 Below is a link to the deployed website and accompanying screenshot.
 
-https://jtich40.github.io/module-2-challenge/
+https://jtich40.github.io/js-password-generator/
 
 ![image](https://user-images.githubusercontent.com/116316302/209237355-29806b99-1667-4c29-91a4-49b8108bd369.png)
