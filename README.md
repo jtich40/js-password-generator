@@ -10,4 +10,4 @@ Below is a link to the deployed website and accompanying screenshot.
 
 https://jtich40.github.io/module-2-challenge/
 
-![image](https://user-images.githubusercontent.com/116316302/208026555-d764d774-fa5b-468b-a48b-bf7092b9c803.png)
+![image](https://user-images.githubusercontent.com/116316302/209237355-29806b99-1667-4c29-91a4-49b8108bd369.png)
